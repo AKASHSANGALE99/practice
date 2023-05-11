@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "project",
+  "version": "4.18.2",
+  "description": "aksh saffd",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "NA"
+  },
+  "keywords": [
+    "akas"
+  ],
+  "author": "akash",
+  "license": "ISC",
+  "type":"module"
+}
